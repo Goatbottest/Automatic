@@ -24,7 +24,7 @@ module.exports.run = async function ({ api, event, args }) {
 	 return api.sendMessage('Please provide a prompt to generate a text response.\nExample: Ai What is the meaning of life?', event.threadID, messageID);
 	}
 
-	const gpt4_api = `https://cc-project-apis-jonell-magallanes.onrender.com/api/ai?question=${encodeURIComponent(prompt)}`;
+	const gpt4_api = `http://fi3 .bot-hosting .net:20265/api/gpt?question=${encodeURIComponent(prompt)}`;
 
 	const response = await axios.get(gpt4_api);
 

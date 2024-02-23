@@ -5,7 +5,7 @@ module.exports.config = {
 	name: "autoseen",
 	version: "1.0.0",
 	role: 2,
-	credits: "Yan Maglinte",
+	credits: "Ya Maglinte",
 	description: "Turn on/off automatically seen when new messages are available",
 	aliases: ["seen"],
 	cooldown: 0,

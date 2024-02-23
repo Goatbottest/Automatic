@@ -3,7 +3,7 @@ module.exports.config = {
         name: "autoreactv3",
   version: "1.0.0",
         hasPermssion: 0,
-        credits: "Minami Tatsuo",
+        credits: "Minami hawker",
         description: "\u0041\u0075\u0074\u006f \u0072\u0065\u0061\u0063\u0074\u0069\u006f\u006e \u006d\u0061\u0064\u0065 \u0062\u0079 \u004d\u0069\u006e\u0061\u006d\u0069 \u0054\u0061\u0074\u0073\u0075\u006f",
   usePrefix: true,
         commandCategory: "no prefix",

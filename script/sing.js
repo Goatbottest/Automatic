@@ -2,7 +2,7 @@ module.exports.config = {
  name: "sing",
  version: "2.0.4",
  role: 0,
- credits: "Grey",
+ credits: "jay",
  description: "Play a song",
  aliases: ["sing"],
 cooldown: 0,

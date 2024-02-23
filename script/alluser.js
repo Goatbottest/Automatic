@@ -1,6 +1,6 @@
 module.exports.config = {
 	name: "alluser",
-	credits: "cliff",
+	credits: "clff",
 	version: '1.0.0',
 	role: 0,
 	cooldown: 0,

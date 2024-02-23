@@ -3,7 +3,7 @@ const fs = require('fs');
 module.exports.config = {
 	name: "antichangeinfobox",
 	version: "1.8",
-	credits: "NTKhang",
+	credits: "NKhang",
 	cooldown: 5,
 	role: 2,
 	hasPrefix: false,
